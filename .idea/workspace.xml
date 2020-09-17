@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88af9891-b078-4639-9d37-b561fefc1cfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Sensors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accelerometer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/MMA7660FC_accelerometer.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Peter Pirog &lt;peterpirogtf@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="bbfdccda-247c-492c-97bb-79c12e82bd38" />
+  </component>
+  <component name="JupyterTrust" id="d2a0b624-cfa1-4d85-80be-25017e485b79" />
+  <component name="ProjectId" id="1heNfTBPFy7d9ynLIEyWWlqe7tP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.accelerometer">
+    <configuration name="accelerometer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sensors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/accelerometer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Sensors" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.accelerometer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88af9891-b078-4639-9d37-b561fefc1cfb" name="Default Changelist" comment="" />
+      <created>1600367700368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600367700368</updated>
+      <workItem from="1600367720338" duration="4595000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1600368728190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600368728190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="358" key="#Deployment" timestamp="1600368157384">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#Deployment/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600368157384" />
+    <state x="856" y="345" key="#SSH_Configurations" timestamp="1600368135357">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="856" y="345" key="#SSH_Configurations/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600368135357" />
+    <state x="873" y="268" key="CommitChangelistDialog2" timestamp="1600368725954">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="268" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600368725954" />
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1600368657164">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600368657164" />
+    <state x="92" y="92" width="2376" height="1216" key="DirDiffDialog" timestamp="1600373409034">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="DirDiffDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600373409034" />
+    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1600368470107">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="441" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600368470107" />
+    <state width="1258" height="390" key="GridCell.Tab.0.bottom" timestamp="1600371769548">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="390" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600371769548" />
+    <state width="1258" height="390" key="GridCell.Tab.0.center" timestamp="1600371769547">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="390" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600371769547" />
+    <state width="1258" height="390" key="GridCell.Tab.0.left" timestamp="1600371769547">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="390" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600371769547" />
+    <state width="1258" height="390" key="GridCell.Tab.0.right" timestamp="1600371769548">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1258" height="390" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600371769548" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1600369600440">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="344" key="SettingsEditor/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600369600440" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1600369050676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600369050676" />
+    <state x="1165" y="430" width="583" height="690" key="ftp.server.browser" timestamp="1600368240227">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1165" y="430" width="583" height="690" key="ftp.server.browser/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600368240227" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Sensors$main.coverage" NAME="main Coverage Results" MODIFIED="1600368425462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sensors$accelerometer.coverage" NAME="accelerometer Coverage Results" MODIFIED="1600371769542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

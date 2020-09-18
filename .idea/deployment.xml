@@ -1,50 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="PI_sensors" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="pi@192.168.1.115:22" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="PI_sensors">
+      <paths name="pi@192.168.1.115:22">
         <serverdata>
           <mappings>
             <mapping deploy="/home/pi/Desktop/Python_Projects/Sensors" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="pi@192.168.1.31:22">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="pi@192.168.1.31:22 Sensors">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/home/pi/Desktop/Python_Projects/Sensors" local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="pi@Display">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="przemek@ip.codelab.pl:22099 password">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="przemek@ip.codelab.pl:22099 password (1)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="przemek@ip.codelab.pl:22099 password (2)">
+      <paths name="pi@192.168.1.164:22">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

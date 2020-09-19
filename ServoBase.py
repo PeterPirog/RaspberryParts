@@ -1,3 +1,5 @@
+# Skeleton class for define servo properties
+
 class DefaultServo():
     def __init__(self):
         #Servo general info
@@ -41,6 +43,7 @@ class DefaultServo():
         print('\tHow to connect: {}'.format(self.connections))
 
 
+##################################   MG90S ###################################################
 class _MG90S(DefaultServo):
     def __init__(self):
         #Servo general info

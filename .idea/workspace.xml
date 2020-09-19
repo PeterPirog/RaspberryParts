@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb8c839-8da9-4171-8a31-d94cd28491fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ServoBase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arduino_firmata_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/pyfirmata.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firmata_test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serwo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/serwo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServoBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/ServoBase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,7 @@
       <recent name="G:\PycharmRemote\RaspberryParts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ServoBase">
+  <component name="RunManager" selected="Python.arduino_firmata_01">
     <configuration name="ServoBase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RaspberryParts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="arduino_firmata_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RaspberryParts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +109,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arduino_firmata_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.arduino_firmata_01" />
         <item itemvalue="Python.ServoBase" />
         <item itemvalue="Python.serwo2" />
         <item itemvalue="Python.serwo1" />
         <item itemvalue="Python.accelerometer" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600443716894</updated>
-      <workItem from="1600443718606" duration="17104000" />
+      <workItem from="1600443718606" duration="23415000" />
     </task>
     <task id="LOCAL-00001" summary="servo added">
       <created>1600445486131</created>
@@ -201,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600507322875</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add servo info class">
+      <created>1600526885759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600526885759</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,41 +219,42 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="servo added" />
     <MESSAGE value="servo class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="servo class added" />
+    <MESSAGE value="add servo info class" />
+    <option name="LAST_COMMIT_MESSAGE" value="add servo info class" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="873" y="268" key="CommitChangelistDialog2" timestamp="1600507321891">
+    <state x="873" y="268" key="CommitChangelistDialog2" timestamp="1600526884856">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="268" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600507321891" />
-    <state x="-7" y="1" width="1932" height="1045" key="DirDiffDialog" timestamp="1600505277206">
+    <state x="873" y="268" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526884856" />
+    <state x="-7" y="1" width="1932" height="1045" key="DirDiffDialog" timestamp="1600547474741">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="-7" y="1" width="1932" height="1045" key="DirDiffDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600505277206" />
-    <state width="1280" height="400" key="GridCell.Tab.0.bottom" timestamp="1600526839381">
+    <state x="-7" y="1" width="1932" height="1045" key="DirDiffDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600547474741" />
+    <state width="1280" height="387" key="GridCell.Tab.0.bottom" timestamp="1600548887664">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="400" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526839381" />
-    <state width="1280" height="400" key="GridCell.Tab.0.center" timestamp="1600526839380">
+    <state width="1280" height="387" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600548887664" />
+    <state width="1280" height="387" key="GridCell.Tab.0.center" timestamp="1600548887664">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="400" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526839380" />
-    <state width="1280" height="400" key="GridCell.Tab.0.left" timestamp="1600526839380">
+    <state width="1280" height="387" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600548887664" />
+    <state width="1280" height="387" key="GridCell.Tab.0.left" timestamp="1600548887664">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="400" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526839380" />
-    <state width="1280" height="400" key="GridCell.Tab.0.right" timestamp="1600526839381">
+    <state width="1280" height="387" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600548887664" />
+    <state width="1280" height="387" key="GridCell.Tab.0.right" timestamp="1600548887664">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="400" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526839381" />
-    <state x="781" y="344" key="SettingsEditor" timestamp="1600465761726">
+    <state width="1280" height="387" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600548887664" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1600546960246">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="344" key="SettingsEditor/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600465761726" />
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1600507328063">
+    <state x="781" y="344" key="SettingsEditor/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600546960246" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1600526928438">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600507328063" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526928438" />
     <state x="1114" y="433" width="579" height="619" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1600445384476">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -260,9 +270,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RaspberryParts$serwo1.coverage" NAME="serwo1 Coverage Results" MODIFIED="1600446976025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RaspberryParts$arduino_firmata_01.coverage" NAME="arduino_firmata_01 Coverage Results" MODIFIED="1600548887657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RaspberryParts$accelerometer.coverage" NAME="accelerometer Coverage Results" MODIFIED="1600444529507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RaspberryParts$serwo2.coverage" NAME="serwo2 Coverage Results" MODIFIED="1600516218047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RaspberryParts$ServoBase.coverage" NAME="ServoBase Coverage Results" MODIFIED="1600526839375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RaspberryParts$ServoBase.coverage" NAME="ServoBase Coverage Results" MODIFIED="1600542940004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RaspberryParts$main.coverage" NAME="main Coverage Results" MODIFIED="1600444513196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

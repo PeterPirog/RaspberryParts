@@ -72,13 +72,13 @@ print(srv.speed_2_impulse_width(0))
 srv.start_speed(7.5)
 try:
   while True:
-    srv.change_speed(0)
+    srv.change_speed(-50)
     time.sleep(0.5)
 
     srv.change_speed(0)
     time.sleep(0.5)
 
-    srv.change_speed(0)
+    srv.change_speed(50)
     time.sleep(0.5)
 
     """

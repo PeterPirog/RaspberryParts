@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb8c839-8da9-4171-8a31-d94cd28491fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ServoBase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serwo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/serwo2.py" afterDir="false" />
     </list>
@@ -14,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -47,7 +49,29 @@
       <recent name="G:\PycharmRemote\RaspberryParts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.serwo2">
+  <component name="RunManager" selected="Python.ServoBase">
+    <configuration name="ServoBase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RaspberryParts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServoBase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="accelerometer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RaspberryParts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,6 +162,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ServoBase" />
         <item itemvalue="Python.serwo2" />
         <item itemvalue="Python.serwo1" />
         <item itemvalue="Python.accelerometer" />
@@ -153,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600443716894</updated>
-      <workItem from="1600443718606" duration="12725000" />
+      <workItem from="1600443718606" duration="17104000" />
     </task>
     <task id="LOCAL-00001" summary="servo added">
       <created>1600445486131</created>
@@ -169,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600467154720</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="servo class added">
+      <created>1600507322875</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600507322875</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,38 +213,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="servo class added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="873" y="268" key="CommitChangelistDialog2" timestamp="1600467153765">
+    <state x="873" y="268" key="CommitChangelistDialog2" timestamp="1600507321891">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="268" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600467153765" />
+    <state x="873" y="268" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600507321891" />
     <state x="-7" y="1" width="1932" height="1045" key="DirDiffDialog" timestamp="1600505277206">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="-7" y="1" width="1932" height="1045" key="DirDiffDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600505277206" />
-    <state width="1280" height="400" key="GridCell.Tab.0.bottom" timestamp="1600506835147">
+    <state width="1280" height="400" key="GridCell.Tab.0.bottom" timestamp="1600526839381">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="400" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600506835147" />
-    <state width="1280" height="400" key="GridCell.Tab.0.center" timestamp="1600506835146">
+    <state width="1280" height="400" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526839381" />
+    <state width="1280" height="400" key="GridCell.Tab.0.center" timestamp="1600526839380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="400" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600506835146" />
-    <state width="1280" height="400" key="GridCell.Tab.0.left" timestamp="1600506835146">
+    <state width="1280" height="400" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526839380" />
+    <state width="1280" height="400" key="GridCell.Tab.0.left" timestamp="1600526839380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="400" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600506835146" />
-    <state width="1280" height="400" key="GridCell.Tab.0.right" timestamp="1600506835146">
+    <state width="1280" height="400" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526839380" />
+    <state width="1280" height="400" key="GridCell.Tab.0.right" timestamp="1600526839381">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="400" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600506835146" />
+    <state width="1280" height="400" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526839381" />
     <state x="781" y="344" key="SettingsEditor" timestamp="1600465761726">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="344" key="SettingsEditor/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600465761726" />
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1600467171986">
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1600507328063">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600467171986" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600507328063" />
     <state x="1114" y="433" width="579" height="619" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1600445384476">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -229,7 +261,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RaspberryParts$serwo1.coverage" NAME="serwo1 Coverage Results" MODIFIED="1600446976025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RaspberryParts$accelerometer.coverage" NAME="accelerometer Coverage Results" MODIFIED="1600444529507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RaspberryParts$serwo2.coverage" NAME="serwo2 Coverage Results" MODIFIED="1600506835138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RaspberryParts$serwo2.coverage" NAME="serwo2 Coverage Results" MODIFIED="1600516218047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RaspberryParts$ServoBase.coverage" NAME="ServoBase Coverage Results" MODIFIED="1600526839375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RaspberryParts$main.coverage" NAME="main Coverage Results" MODIFIED="1600444513196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

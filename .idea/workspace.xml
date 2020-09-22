@@ -2,11 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb8c839-8da9-4171-8a31-d94cd28491fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arduino_firmata_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/pyfirmata.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firmata_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TFT_display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Arduino Due/firmata_test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Flame Sensor Grove/Grove - Flame Sensor - Seeed Wiki.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Grove Base HAT_seeed/Grove Base Hat for Raspberry Pi - Seeed Wiki.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Grove Base HAT_seeed/links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/IR/Infrared Emission Sensor GREATZT KY-005 3pin/GREATZT KY-005 3pin.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/IR/Infrared Speed Sensor GREATZT F249 4 PIN/Wholesale Product Snapshot Product name is GREATZT F249 4 PIN Infrared Speed Sensor Module For Arduino _51_AVR_PIC 3.3V-5V High Quality.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/IR/TCRT5000 Infrared Sensor/How to Use TCRT5000 IR Sensor Module With Arduino UNO _ 7 Steps (with Pictures) - Instructables.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/IR/TCRT5000 Infrared Sensor/TCRT5000 Infrared Sensor.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Magnetic Sensor GREATZT G123-08/Magnetic Sensor GREATZ G123-08.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Photosensitive brightness resistance sensor GREATZT/Wholesale Product Snapshot Product name is GREATZT Photosensitive brightness resistance sensor module Light intensity detect New For Arduino.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/TFT Color Screen LCD Display Module Drive ST7735 ILI9225 ILI9341 Interface SPI/2.2“ SPI-Display (ILI9341) am Raspberry betreiben » Xgadget.de.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/TFT Color Screen LCD Display Module Drive ST7735 ILI9225 ILI9341 Interface SPI/Connectors.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/TFT Color Screen LCD Display Module Drive ST7735 ILI9225 ILI9341 Interface SPI/FBTFT Installation _ RPi-Display _ Watterott electronic.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/TFT Color Screen LCD Display Module Drive ST7735 ILI9225 ILI9341 Interface SPI/_dev_jarzebski_ Wyświetlacz TFT 2.2 SPI ILI9341.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/TFT Color Screen LCD Display Module Drive ST7735 ILI9225 ILI9341 Interface SPI/links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/TFT Color Screen LCD Display Module Drive ST7735 ILI9225 ILI9341 Interface SPI/piny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Therometers/Resistive_analog/Wholesale Product Snapshot Product name is GREATZT PT100 Platinum Resister Temperature Sensor Waterproof Temp Probe -20_450 Celsius Insulated Shielding Fiberglass 50CM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Ultrasonic Wave Detector Ranging Module HC-SR04/Ultrasonic Wave Detector Ranging Module HC-SR04  Distance Sensor.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Voice Sound Detection Sensor/Wholesale Product Snapshot Product name is 3pin Voice Sound Detection Sensor Module Intelligent Smart Robot Helicopter Airplane Boart Car for arduino Diy Kit.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServoBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/ServoBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arduino_firmata_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/arduino_firmata_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/MMA7660FC_accelerometer.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Akcelerometr Grove MMA7660FC/MMA7660FC_accelerometer.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Servo _MG90S_Datasheet-Pro.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Servo Motors/Step_MG90S/Servo _MG90S_Datasheet-Pro.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ServoFS90R-Datasheet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Servo Motors/Continous_FS90R/ServoFS90R-Datasheet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pyfirmata.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Arduino Due/pyfirmata.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serwo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/serwo2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +73,8 @@
       <recent name="G:\PycharmRemote\RaspberryParts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.arduino_firmata_01">
-    <configuration name="ServoBase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.TFT_display">
+    <configuration name="TFT_display" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RaspberryParts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +87,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServoBase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TFT_display.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="serwo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="load.model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RaspberryParts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,14 +148,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../PycharmProject/Koszty" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serwo1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../PycharmProject/Koszty/load.model.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -164,10 +186,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TFT_display" />
+        <item itemvalue="Python.load.model" />
+        <item itemvalue="Python.load.model" />
         <item itemvalue="Python.arduino_firmata_01" />
-        <item itemvalue="Python.ServoBase" />
-        <item itemvalue="Python.serwo2" />
-        <item itemvalue="Python.serwo1" />
         <item itemvalue="Python.accelerometer" />
       </list>
     </recent_temporary>
@@ -180,7 +202,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600443716894</updated>
-      <workItem from="1600443718606" duration="23415000" />
+      <workItem from="1600443718606" duration="26899000" />
+      <workItem from="1600725040554" duration="2744000" />
+      <workItem from="1600773594677" duration="7835000" />
+      <workItem from="1600806364424" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="servo added">
       <created>1600445486131</created>
@@ -210,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600526885759</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add servo info class">
+      <created>1600548918118</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600548918118</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,38 +255,55 @@
     <option name="LAST_COMMIT_MESSAGE" value="add servo info class" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="873" y="268" key="CommitChangelistDialog2" timestamp="1600526884856">
+    <state x="1026" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600734272779">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="268" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526884856" />
+    <state x="1026" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1600734272779" />
+    <state x="873" y="268" key="CommitChangelistDialog2" timestamp="1600548916955">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="268" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600548916955" />
     <state x="-7" y="1" width="1932" height="1045" key="DirDiffDialog" timestamp="1600547474741">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="-7" y="1" width="1932" height="1045" key="DirDiffDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600547474741" />
-    <state width="1280" height="387" key="GridCell.Tab.0.bottom" timestamp="1600548887664">
+    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1600734280084">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="387" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600548887664" />
-    <state width="1280" height="387" key="GridCell.Tab.0.center" timestamp="1600548887664">
+    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1600734280084" />
+    <state width="1280" height="387" key="GridCell.Tab.0.bottom" timestamp="1600797075300">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="387" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600548887664" />
-    <state width="1280" height="387" key="GridCell.Tab.0.left" timestamp="1600548887664">
+    <state width="1280" height="387" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600616274090" />
+    <state width="1280" height="387" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1600797075300" />
+    <state width="1280" height="387" key="GridCell.Tab.0.center" timestamp="1600797075300">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="387" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600548887664" />
-    <state width="1280" height="387" key="GridCell.Tab.0.right" timestamp="1600548887664">
+    <state width="1280" height="387" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600616274089" />
+    <state width="1280" height="387" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1600797075300" />
+    <state width="1280" height="387" key="GridCell.Tab.0.left" timestamp="1600797075300">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1280" height="387" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600548887664" />
-    <state x="781" y="344" key="SettingsEditor" timestamp="1600546960246">
+    <state width="1280" height="387" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600616274089" />
+    <state width="1280" height="387" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1600797075300" />
+    <state width="1280" height="387" key="GridCell.Tab.0.right" timestamp="1600797075300">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="344" key="SettingsEditor/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600546960246" />
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1600526928438">
+    <state width="1280" height="387" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600616274089" />
+    <state width="1280" height="387" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1600797075300" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1600806378463">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="432" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600526928438" />
+    <state x="781" y="344" key="SettingsEditor/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600806378463" />
+    <state x="827" y="524" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1600796846169" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1600548933367">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600548933367" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600734378917">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1600734378917" />
     <state x="1114" y="433" width="579" height="619" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1600445384476">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -263,6 +312,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1097" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1600443883652" />
+    <state x="2" y="325" width="1937" height="1382" key="dock-window-1" timestamp="1600734378917">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2" y="325" width="1937" height="1382" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1600734378917" />
+    <state x="380" y="0" width="1937" height="954" maximized="true" key="dock-window-2" timestamp="1600775210892">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="380" y="0" width="1937" height="954" maximized="true" key="dock-window-2/0.0.2560.1400@0.0.2560.1400" timestamp="1600775210892" />
     <state x="1167" y="429" width="705" height="710" key="ftp.server.browser" timestamp="1600444255209">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -270,10 +327,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RaspberryParts$serwo1.coverage" NAME="serwo1 Coverage Results" MODIFIED="1600446976025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RaspberryParts$arduino_firmata_01.coverage" NAME="arduino_firmata_01 Coverage Results" MODIFIED="1600548887657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RaspberryParts$accelerometer.coverage" NAME="accelerometer Coverage Results" MODIFIED="1600444529507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RaspberryParts$serwo2.coverage" NAME="serwo2 Coverage Results" MODIFIED="1600516218047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RaspberryParts$arduino_firmata_01.coverage" NAME="arduino_firmata_01 Coverage Results" MODIFIED="1600616274084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RaspberryParts$accelerometer.coverage" NAME="accelerometer Coverage Results" MODIFIED="1600616202781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RaspberryParts$serwo2.coverage" NAME="serwo2 Coverage Results" MODIFIED="1600616123832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RaspberryParts$ServoBase.coverage" NAME="ServoBase Coverage Results" MODIFIED="1600542940004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RaspberryParts$main.coverage" NAME="main Coverage Results" MODIFIED="1600444513196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RaspberryParts$TFT_display.coverage" NAME="TFT_display Coverage Results" MODIFIED="1600796998958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

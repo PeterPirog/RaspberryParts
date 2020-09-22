@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=beyDkTBhpgs
+
+https://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi
+
+http://www.jarzebski.pl/arduino/komponenty/wyswietlacz-tft-2-2-spi-ili9341.html
+
+https://github.com/adafruit/Adafruit_ILI9341
+
+https://www.youtube.com/watch?v=3vuK5w8o8dg
+
+
+https://learn.watterott.com/hats/rpi-display/fbtft-install/
+
+calibration touchpanel https://www.youtube.com/watch?v=G94iX3mNiPU
+https://www.youtube.com/watch?v=jDbdt7-aDDE
+
+połaczenia: https://github.com/notro/fbtft/wiki/LCD-Modules#watterott-mi0283qt-9a
+
+
